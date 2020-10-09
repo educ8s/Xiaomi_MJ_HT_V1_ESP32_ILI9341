@@ -25,3 +25,9 @@
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
+# Schematic
+
+<p align="center">
+  <img src="Schematic.png" alt="Schematic Diagram" width="800">
+</p>
+
