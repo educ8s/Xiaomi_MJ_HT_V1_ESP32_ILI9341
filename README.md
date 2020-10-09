@@ -33,6 +33,6 @@
 
 # Credits & Thanks
 
-  - Kudos to [Yeonho](https://github.com/turlvo) for being the creator of the KukuMI project without which this project would not exist.
+  - Kudos to [Yeonho](https://github.com/turlvo) for being the creator of the [KuKuMi](https://github.com/turlvo/KuKuMi) project without which this project would not exist.
 
 
