@@ -1,10 +1,9 @@
 # ESP32_XIAOMI_MJ_HT_V1_BLUETOOTH_CONNECTION
  Get Temperature and Humidity readings from a Xiaomi MJ_HT_V1 device using ESP32 and an ILI9341 display
  
+ Watch the detailed video: https://www.youtube.com/watch?v=Wef_bWNC2rY
  
  # Parts Needed
-
-
 
 🛒 ESP32: http://educ8s.tv/part/ESP32
 
