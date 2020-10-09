@@ -11,8 +11,8 @@
 
 
 #include "SPI.h"
-#include "Adafruit_GFX.h"      //https://github.com/adafruit/Adafruit-GFX-Library
-#include "Adafruit_ILI9341.h"  //https://github.com/adafruit/Adafruit_ILI9341
+#include "Adafruit_GFX.h"      // https://github.com/adafruit/Adafruit-GFX-Library
+#include "Adafruit_ILI9341.h"  // https://github.com/adafruit/Adafruit_ILI9341
 
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
