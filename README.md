@@ -31,3 +31,8 @@
   <img src="Schematic.png" alt="Schematic Diagram" width="800">
 </p>
 
+# Credits & Thanks
+
+  - Kudos to [Yeonho](https://github.com/turlvo) for being the creator of the KukuMI project without which this project would not exist.
+
+
