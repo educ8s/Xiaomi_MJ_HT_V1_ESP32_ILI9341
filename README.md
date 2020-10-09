@@ -3,14 +3,22 @@
  
  
  # Parts Needed
-🛒 Arduino Uno: http://educ8s.tv/part/ArduinoUno
 
-🛒 ST7789 Display: http://educ8s.tv/part/st7789
 
-🛒 DS18B20 Temperature Sensor: http://educ8s.tv/part/DS18B20
 
-🛒 Breadboard: http://educ8s.tv/part/SmallBreadboard
+🛒 ESP32: http://educ8s.tv/part/ESP32
+
+🛒 2.8" Display: http://educ8s.tv/part/28ILI9341
+
+🛒 Xiaomi Sensor: http://educ8s.tv/part/XiaomiThermometer
+
+🛒 Breadboard: http://educ8s.tv/part/LargeBreadboard
 
 🛒 Wires: http://educ8s.tv/part/Wires
 
+🛒 USB Meter: http://educ8s.tv/part/UsbDoctorOLED
+
+🛒 Powerbank: http://educ8s.tv/part/Powerbank
+
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
+
